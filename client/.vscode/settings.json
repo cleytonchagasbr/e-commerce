@@ -1,0 +1,9 @@
+{
+    "editor.formatOnPaste": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true 
+    },
+    "prettier.endOfLine": "auto",
+    "prettier.jsxSingleQuote": true,
+    "prettier.packageManager": "yarn"
+}

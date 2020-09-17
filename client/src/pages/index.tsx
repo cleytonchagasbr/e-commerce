@@ -1,10 +1,6 @@
 import Head from 'next/head'
 
-type Props = {
-  title: string;
-};
-
-export default function Home({ title = "Next js Cleyton" }: Props ) {
+export default function Home({ title = "Next js Cleyton" }) {
   return (
     <div className="container">
       <Head>
